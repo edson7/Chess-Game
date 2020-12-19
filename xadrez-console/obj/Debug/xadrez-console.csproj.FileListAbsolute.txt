@@ -1,0 +1,7 @@
+Y:\Projetos\xadrez-console\xadrez-console\bin\Debug\xadrez-console.exe.config
+Y:\Projetos\xadrez-console\xadrez-console\bin\Debug\xadrez-console.exe
+Y:\Projetos\xadrez-console\xadrez-console\bin\Debug\xadrez-console.pdb
+Y:\Projetos\xadrez-console\xadrez-console\obj\Debug\xadrez-console.csprojAssemblyReference.cache
+Y:\Projetos\xadrez-console\xadrez-console\obj\Debug\xadrez-console.csproj.CoreCompileInputs.cache
+Y:\Projetos\xadrez-console\xadrez-console\obj\Debug\xadrez-console.exe
+Y:\Projetos\xadrez-console\xadrez-console\obj\Debug\xadrez-console.pdb
